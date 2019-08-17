@@ -1,0 +1,11 @@
+{
+  ":_template_": {
+    "taxAddress": "",
+    "taxPercent": "",
+    "taxPercentLeg": ""
+  },
+  ":_template_Pay": {
+    "addr": ""
+  },
+  ":owned": {}
+}

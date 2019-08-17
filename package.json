@@ -1,0 +1,14 @@
+{
+  "name": "Infra",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@git.geeks.sexy:MonnaieRacine/Infra.git",
+  "author": "Monnaie Racine",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "glob-promise": "3.4.0",
+    "solc": "^0.4",
+    "web3": "^1.0.0-beta.36"
+  }
+}
